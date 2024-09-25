@@ -1,0 +1,51 @@
+
+#titre
+{
+    font-size: 50px;
+    font-family: monospace;
+    
+}
+
+#add
+{
+    font-style: oblique;
+    text-decoration: underline;
+    word-spacing: 10px;
+   
+}
+
+#fid
+{
+    height: 100px;
+}
+
+#sss
+{
+    padding-top: 10px;
+    font-size: 100px;
+}
+#ff
+{
+    background-color: dimgrey;
+    color: white;
+    height: 70px;
+    font-size: 60px;
+}
+#pp
+{
+    color: black;
+}
+
+
+#fond-compte
+{
+    background-color: black;
+    color: white;
+}
+
+#edit
+{
+
+    height: 60px;
+}
+

@@ -1,0 +1,53 @@
+.scrollbar
+{
+ height: 400px;
+ overflow-y: scroll;
+}
+
+
+
+
+
+/*
+.ttr
+{
+    width: 350px;
+}
+*/
+
+
+  .ttr
+  {
+    margin-left: 300px;
+  }
+
+
+  .custom {
+    width: 200px !important;
+}
+
+.hehe
+{
+  height: 200px !important;
+}
+
+.ooo
+{
+  height: 300px;
+  width:  300px;
+}
+
+.customt {
+  width: 800px !important;
+}
+
+.rao
+{
+  background-color: white;
+}
+
+
+
+
+
+
